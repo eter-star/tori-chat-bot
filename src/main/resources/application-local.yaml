@@ -1,4 +1,4 @@
 env: local
 slack:
-  channel_id: C07FELWSY68
-  slack_bot_token: xoxb-7519330947701-7524737465108-Sh7HzCUc48JtX2HqLJJfbFyB
+  channel_id: test-value
+  slack_bot_token: test-value
